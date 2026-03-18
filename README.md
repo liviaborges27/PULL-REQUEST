@@ -1,4 +1,9 @@
-- padrão de branch (ex.: aluno/nome-sobrenome)
-- arquivo(s) que devem ser alterados
-- critério de commit
+- padrão de branch: aluno/nome-sobrenome
+- arquivo(s) que devem ser alterados: no meu aqruivo md acrescente uma linha com: " Aluno com acesso"
+- critério de commit: o commit deve ser curto e usar esse padrão:
+- feat
+- fix
+- docs
+- refactor
+- chore
 - prazo e regra: entrega só vale com PR aberto
