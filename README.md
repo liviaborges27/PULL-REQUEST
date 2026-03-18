@@ -1,0 +1,4 @@
+- padrão de branch (ex.: aluno/nome-sobrenome)
+- arquivo(s) que devem ser alterados
+- critério de commit
+- prazo e regra: entrega só vale com PR aberto
